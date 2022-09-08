@@ -1,3 +1,7 @@
+#! /usr/bin/env /usr/bin/python3
+#
+# Gets info acout a video file and prints
+
 import cv2
 
 video=cv2.VideoCapture("video.mp4")
